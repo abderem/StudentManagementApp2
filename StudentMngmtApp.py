@@ -39,3 +39,5 @@ student_name = input("Enter student name: ")
 student_id = input("Enter student ID: ")
 
 add_student(student_name, student_id)
+
+test
