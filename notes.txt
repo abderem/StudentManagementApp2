@@ -1,0 +1,21 @@
+Iteration = the repetitian in a loop
+
+Dictionaries -> Key ("Name") + Value ("John Doe")
+
+Function = A block of organised and reusable code that is used to perform a certain action.
+
+Class = A logical groups of functions and data
+
+Functions in a Class are called "Methods"
+
+
+If class is "Student"
+
+If we want to create a new student we create a new INSTANCE of a Student class
+Each instance is independent of the other !
+
+
+
+In Classes you can use Special Methods like for example:
+Constructor Methods = is going to be called everytime you create a new instance automatically
+
